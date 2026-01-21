@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Main Dashboard](screenshots/dashboard.png)
-![MTD Report](screenshots/mtd.png)
-![Same Period Last Year](screenshots/sply.png)
+![Main Dashboard](screenshots/Dashboard.png)
+![MTD Report](screenshots/MTD.png)
+![Same Period Last Year](screenshots/SPLY.png)
 
